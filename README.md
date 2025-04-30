@@ -1,4 +1,4 @@
-### 📔 1 과목. 소프트웨어 설계
+[[### 📔 1 과목. 소프트웨어 설계
 
 ### **1 장. 요구사항 확인**
 
@@ -74,3 +74,4 @@
         - 구축 비용
 
 [📖과제 & 복습](https://www.notion.so/1c7317b63e898032a8cbd025f5be4f08?pvs=21)
+](https://www.notion.so/1d8317b63e89809c8da6d1df84d9c3ce?pvs=4)](https://www.notion.so/1d8317b63e89809c8da6d1df84d9c3ce?pvs=4)
